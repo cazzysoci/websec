@@ -1439,7 +1439,7 @@ def check_password():
         banner()
         run_tool()
     else:
-        print("Error: The password is incorrect \n send the message to the owner \n instagram:@viper_droid")
+        print("Error: The password is incorrect \n send the message to the owner \n @cazzysoci")
 
 
 def run_tool():
